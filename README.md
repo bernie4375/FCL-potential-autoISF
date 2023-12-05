@@ -48,12 +48,12 @@ Full Closed Loop (FCL) Using autoISF 3.0
    2.3  SMB Delivery Ratio  
    2.4  iobTH (see also 3.3 and 6.1)
    2.5  Eating Soon TT     
-3. Description of autoISF 3.0 features   
+4. Description of autoISF 3.0 features   
    3.1 Overview     
    3.2 ISF modulation flowcharts
    3.3 dynamic iobTH and exercise button 
    3.4 Automation options with autoISF parameters                                        3.5 Activity monitor
-4. Meals: Setting ISF_weights in AAPS/Preferences    
+5. Meals: Setting ISF_weights in AAPS/Preferences    
    4.1  Getting started
    4.2  bgAccel_ISF_weight 
    4.3  pp_ISF_weight
@@ -63,12 +63,12 @@ Full Closed Loop (FCL) Using autoISF 3.0
              Case study 4.1: Pizza      
              Case study 4.2: Low carb meal ( NN )
              Case study 4.3: (iAPS): ( NN ) (example MEAL iAPS FCL)
-5. Temp. Modulation of autoISF Aggressiveness   
+6. Temp. Modulation of autoISF Aggressiveness   
    5.1  Automations (e.g. to manage nights )
    5.2  Cockpit use (for special situations)
              Case study 5.1: Night after late fatty dinner    
              Case study 5.2 (iAPS): (NN -example iAPS FCL)
-6. Temp. Modulation for Exercise and light (In-)Activity
+7. Temp. Modulation for Exercise and light (In-)Activity
    6.1  Dynamic iobTH and sensitivity ratio         
    6.2  Managing exercise with inputs in FCL Cockpit
    6.3  Option to pre-set for 4 kinds of exercise (for 1 button operation)
@@ -78,20 +78,20 @@ Full Closed Loop (FCL) Using autoISF 3.0
             Case study 6.2 Biking day with hi carb lunch   
             Case study 6.3 Using the Activity Monitor (NN)  
             Case study 6.4 (iAPS): (NN  -exercise FCL example)
-7. Kids: Mastering additional challenges (NN)    
+8. Kids: Mastering additional challenges (NN)    
             Case study 7.1: Active kid on med/hi carb (NN) 
             Case study 7.2: Kid on low carb (NN)
-8. Performance Monitoring and Tuning   
+9. Performance Monitoring and Tuning   
             Case study 8,1:    (NN )
             Case study 8.2: Futility of tuning based on 1 extreme meal  
-9. Trouble shooting      
-10. Emulator on PC to Determine Settings (NN)
-11. Emulator on the Smartphone  (NN)
+10. Trouble shooting      
+11. Emulator on PC to Determine Settings (NN)
+12. Emulator on the Smartphone  (NN)
    11.1   Tab/table in AAPS home screen w/ table of ISF contributors  
    11.2   „what-if“ with speech synthesis
             Case study 11.1: Real-time checking out an alternative setting (NN)
-12. Remarks for users of previous autoISF versions  
-13. Other avenues to FCL
+13. Remarks for users of previous autoISF versions  
+14. Other avenues to FCL
    13.1 FCL using AAPS Master and Automations
               Case study 13.1: Comparison 1 mo FCL Automation vs autoISF (bernie)
    13.2  dynISF used for FCL
