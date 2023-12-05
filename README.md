@@ -1,6 +1,6 @@
 Exploring Full Closed Loop potential of-autoISF-3.0
 
-Authors are no medical professionals but T1 diabetics (or parents of a T1D child) who report their -limited - understanding and experience, in an effort to contribute to a growing body of knowledge, and to facilitate development of patient centered solutions. Nothing in this site is medical advice, but meant to stimulate patient-driven self-responsible research, and meant also to stimulate and contribute to product developments by the medical industry.   
+Authors are no medical professionals but T1 diabetics (or parents of a T1D child) who report their -limited - understanding and experience, in an effort to contribute to a growing body of knowledge, and to facilitate development of patient centered solutions. Nothing in this site is medical advice, but meant to stimulate patient-driven self-responsible research, and meant also to stimulate product developments by the medical industry.   
 
 Introduction    
 
@@ -27,7 +27,7 @@ Alternatively - and this is also done by many people - you can use some techniqu
 
 
 Full Closed Loop (FCL) Using autoISF 3.0   ..  V17
-<- see attached files
+<- see attached files (NN = co-author needed!)
           
 1. Pre-Requisites for FCL
    1.1 Well tuned hybrid closed loop
@@ -42,11 +42,11 @@ Full Closed Loop (FCL) Using autoISF 3.0   ..  V17
              Case study 1.3: Jumpy CGM  
              Case study 1.4: Lost pump connection  
 2. General Settings for Full Closed Loop  		 
-   2.1  Range Extension (smb_max_range_extension)
-   2.2  Max and Min autoISF Ratio (autoISF_min / autoISF_max)
-   2.3  SMB Delivery Ratio (smb_delivery_ratio)
-   2.4  iobTH  (see also 3.3 and 6.1)
-   2.5	Eating Soon TT    (w/ref. to „Meal Announcement “section 13)
+   2.1  SMB Range Extension  
+   2.2  Max and Min autoISF Ratio  
+   2.3  SMB Delivery Ratio  
+   2.4  iobTH (see also 3.3 and 6.1)
+   2.5  Eating Soon TT     
 3. Description of autoISF 3.0 features   
    3.1 Overview     
    3.2 ISF modulation flowcharts
@@ -58,33 +58,33 @@ Full Closed Loop (FCL) Using autoISF 3.0   ..  V17
    4.3  pp_ISF_weight
    4.4  bgBrake_ISF_weight
    4.5  dura_ISF_weight
-   4.6 profile helper  
+   4.6  profile helper (not yet incl.) 
              Case study 4.1: Pizza      
-             Case study 4.2: Low carb meal   ( NN )
-             Case study 4.3: (iAPS):   ( NN ) (example MEAL iAPS FCL)
+             Case study 4.2: Low carb meal ( NN )
+             Case study 4.3: (iAPS): ( NN ) (example MEAL iAPS FCL)
 5. Temp. Modulation of autoISF Aggressiveness   
    5.1  Automations (e.g. to manage nights )
-   5.2  Cockpit use (for special situations; continued →6.2)
+   5.2  Cockpit use (for special situations)
              Case study 5.1: Night after late fatty dinner    
-             Case study 5.2 (iAPS):   ( NN ) (example iAPS FCL)
-6. Temp. Modulation for Exercise and light (In-)Activity  (bernie, NN)	18
+             Case study 5.2 (iAPS): (NN -example iAPS FCL)
+6. Temp. Modulation for Exercise and light (In-)Activity
    6.1  Dynamic iobTH and sensitivity ratio         
    6.2  Managing exercise with inputs in FCL Cockpit
    6.3  Option to pre-set for 4 kinds of exercise (for 1 button operation)
-   6.4 Mastering the exercise after meal challenge
-   6.5 Activity monitor based on stepcounter   
-            Case study 6.1: Exercise mgd. in FCL w/sports button and TT  ( NN )
+   6.4  Mastering the exercise after meal challenge
+   6.5  Activity monitor based on stepcounter   
+            Case study 6.1: Exercise mgd. in FCL w/sports button and TT (NN)
             Case study 6.2 Biking day with hi carb lunch   
-            Case study 6.3 (using the Activity Monitor – (ga-zelle?)
-            Case study 6.4 (iAPS): (NN ) ( exercise example )
+            Case study 6.3 Using the Activity Monitor (NN)  
+            Case study 6.4 (iAPS): (NN  -exercise FCL example)
 7. Kids: Mastering additional challenges (NN)    
             Case study 7.1: Active kid on med/hi carb (NN) 
-            Case study 7.2: Kid on low carb ( NN )
+            Case study 7.2: Kid on low carb (NN)
 8. Performance Monitoring and Tuning   
-            Case study 8,1:    ( NN )
+            Case study 8,1:    (NN )
             Case study 8.2: Futility of tuning based on 1 extreme meal  
 9. Trouble shooting      
-10. Emulator on PC to Determine Settings  ( NN )                                      11. Emulator on the Smartphone  ( NN / ga-zelle? )
+10. Emulator on PC to Determine Settings  (NN)                                      11. Emulator on the Smartphone  (NN)
    11.1   Tab/table in AAPS home screen w/ table of ISF contributors  
    11.2   „what-if“ with speech synthesis
             Case study 11.1: Real-time checking out an alternative setting (NN)
@@ -93,11 +93,11 @@ Full Closed Loop (FCL) Using autoISF 3.0   ..  V17
    13.1 FCL using AAPS Master and Automations
               Case study 13.1: Comparison 1 mo FCL Automation vs autoISF (bernie)
    13.2  dynISF used for FCL
-              Case study 13.2: Using dynISF for FCL ( NN )  
+              Case study 13.2: Using dynISF for FCL (NN)  
    13.3  Methods involving simple Meal Announcement that might be stretched into a   .          FCL (AIMI, Boost, EatNow, Tsunami)
    13.4 How beneficial are carb entries when using oref(1) system?   
-              Case study 13.3: (example - NN)
-   13.5  Machine Learning (AI)  
+              Case study 13.3: (example-NN)
+   13.5 Machine Learning (AI)  
    13.6 Dual Hormone systems
 
 
