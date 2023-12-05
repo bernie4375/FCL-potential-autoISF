@@ -42,11 +42,11 @@ Full Closed Loop (FCL) Using autoISF 3.0
              Case study 1.2: Comparing insulins for FCL  
              Case study 1.3: Jumpy CGM  
              Case study 1.4: Lost pump connection  
-2. General Settings for Full Closed Loop  		 
+2. General Settings for Full Closed Loop	 
    2.1  SMB Range Extension  
    2.2  Max and Min autoISF Ratio  
    2.3  SMB Delivery Ratio  
-   2.4  iobTH (see also 3.3 and 6.1)
+   2.4  iobTH see also 3.3 and 6.1
    2.5  Eating Soon TT     
 4. Description of autoISF 3.0 features   
    3.1 Overview     
