@@ -84,7 +84,8 @@ Full Closed Loop (FCL) Using autoISF 3.0   ..  V17
             Case study 8,1:    (NN )
             Case study 8.2: Futility of tuning based on 1 extreme meal  
 9. Trouble shooting      
-10. Emulator on PC to Determine Settings  (NN)                                      11. Emulator on the Smartphone  (NN)
+10. Emulator on PC to Determine Settings (NN)
+11. Emulator on the Smartphone  (NN)
    11.1   Tab/table in AAPS home screen w/ table of ISF contributors  
    11.2   „what-if“ with speech synthesis
             Case study 11.1: Real-time checking out an alternative setting (NN)
