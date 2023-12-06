@@ -6,13 +6,13 @@ Introduction
 
 Full Closed Loop using Automations is represented in AAPS Master and in the related readthedocs since autumn 2023.  (https://androidaps.readthedocs.io/en/latest/Usage/FullClosedLoop.html. ).
 
-Pre-requisites and the principal function of a Full Closed Loop, without the user ever giving a bolus and without entering any carb info are explained, also in a couple of other languages, there. 
+Pre-requisites and the principal function of a Full Closed Loop, *without the user ever giving a bolus and without entering any carb info* are explained, also in a couple of other languages, there. 
 
 The essential points are summarized also below, in section 1.
 
-autoISF was developed as a much more sophisticated alternative for FCL, allowing better %TIR performance at higher degree of daily „freedom“ than simpler approaches to FCL could.  
+autoISF is being developed as a much more sophisticated alternative for FCL, allowing better %TIR performance at higher degree of daily „freedom“ than simpler approaches to FCL could.  
 
-However, this demands much higher degree of involvement by the user (as you shall see, following us through this paper).
+However, this demands much higher degree of involvement by the user ( - as you shall see, following us through this paper. Of note, parts of this paper *notably sections 5.2 and 6.3 describing functions of the "FCL cockpit"*  are not implemented at launch because the developers had to focus on more core functions).  
 
 With autoISF, and especially with the intention to use it for Full Closed Loop, you are in the early development area. It is therefore important to observe the warnings given below, as well as the hints given by the developers in the respective manuals (readme files on their Github pages; for autoISF with AAPS the main ones are https://github.com/T-o-b-i-a-s/AndroidAPS/ and https://github.com/ga-zelle/autoISF/ ).
 
@@ -52,7 +52,8 @@ Full Closed Loop (FCL) Using autoISF 3.0
    3.1 Overview     
    3.2 ISF modulation flowcharts
    3.3 dynamic iobTH and exercise button 
-   3.4 Automation options with autoISF parameters                                        3.5 Activity monitor
+   3.4 Automation options with autoISF parameters
+   3.5 Activity monitor
 5. Meals: Setting ISF_weights in AAPS/Preferences    
    4.1  Getting started
    4.2  bgAccel_ISF_weight 
@@ -96,7 +97,8 @@ Full Closed Loop (FCL) Using autoISF 3.0
               Case study 13.1: Comparison 1 mo FCL Automation vs autoISF (bernie)
    13.2  dynISF used for FCL
               Case study 13.2: Using dynISF for FCL (NN)  
-   13.3  Methods involving simple Meal Announcement that might be stretched into a   .          FCL (AIMI, Boost, EatNow, Tsunami)
+   13.3  Methods involving simple Meal Announcement that might be stretched into a
+         FCL (AIMI, Boost, EatNow, Tsunami)
    13.4 How beneficial are carb entries when using oref(1) system?   
               Case study 13.3: (example-NN)
    13.5 Machine Learning (AI)  
