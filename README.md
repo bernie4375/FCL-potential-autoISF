@@ -26,9 +26,9 @@ See also the first published medical study that included 16 patients using AAPS,
 Alternatively - and this is also done by many people - you can use some techniques used in hybrid closed loop, such as using a pre-bolus with autoISF, or try other early DEV variants mentioned in section 13.3, which also undergo permanent further development (Boost, AIMI, EatingNow, Tsunami).
 
 
-Full Closed Loop (FCL) Using autoISF 3.0
+Full Closed Loop (FCL) Using autoISF 3.0  -  (NN = co-author needed!)
 
-<- see attached  *PDF* files (NN = co-author needed!)
+<- see attached  *PDF* files - For WORD files, go to branch "FCL-w-autoISF"
           
 1. Pre-Requisites for FCL
    1.1 Well tuned hybrid closed loop
