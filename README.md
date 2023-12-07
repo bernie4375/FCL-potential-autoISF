@@ -28,7 +28,7 @@ Alternatively - and this is also done by many people - you can use some techniqu
 
 Full Closed Loop (FCL) Using autoISF 3.0   (NN = co-author needed!)
 
-<- see attached *.doc  or  .odt* files    for PDF go to branch "PDF-version"
+<- see attached *.doc  or  .odt* files   -  For PDF go to branch "PDF-version"
           
 1. Pre-Requisites for FCL
    1.1 Well tuned hybrid closed loop
