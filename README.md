@@ -1,4 +1,4 @@
-Exploring Full Closed Loop potential of-autoISF-3.0
+Exploring Full Closed Loop potential of-autoISF-3.0   * - VERSION IN WORD FORMATS _ *
 
 Authors are no medical professionals but T1 diabetics (or parents of a T1D child) who report their -limited - understanding and experience, in an effort to contribute to a growing body of knowledge, and to facilitate development of patient centered solutions. Nothing in this site is medical advice, but meant to stimulate patient-driven self-responsible research, and meant also to stimulate product developments by the medical industry.   
 
@@ -28,7 +28,7 @@ Alternatively - and this is also done by many people - you can use some techniqu
 
 Full Closed Loop (FCL) Using autoISF 3.0
 
-<- see attached files (NN = co-author needed!)
+<- see attached * .doc  or  .odt* files (NN = co-author needed!)
           
 1. Pre-Requisites for FCL
    1.1 Well tuned hybrid closed loop
