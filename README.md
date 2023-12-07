@@ -1,4 +1,4 @@
-Exploring Full Closed Loop potential of-autoISF-3.0     PDF FORMATTED VERSION
+Exploring Full Closed Loop potential of-autoISF-3.0   *- PDF FORMATTED VERSION -*
 
 Authors are no medical professionals but T1 diabetics (or parents of a T1D child) who report their -limited - understanding and experience, in an effort to contribute to a growing body of knowledge, and to facilitate development of patient centered solutions. Nothing in this site is medical advice, but meant to stimulate patient-driven self-responsible research, and meant also to stimulate product developments by the medical industry.   
 
