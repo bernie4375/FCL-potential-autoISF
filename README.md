@@ -10,7 +10,7 @@ Nothing in this site is medical advice, but meant to stimulate patient-driven se
 Never copy what others report to use, but investigate and adjust to your data. Neglecting safety instructions, and just using the “buttons” that are made available in a supposed “learning by doing” mode, would be very dangerous with the early development stage tools this research paper is about. 
 In case you choose to get deeper involved, run the system disconnected, parallel to your current glucose management, to learn its behavior before eventually considering (on own risk) to go any further. Please stay connected and share experiences, too.
 
-Introduction
+Introduction. 
 Full Closed Loop using Automations is represented in AAPS Master and in the related readthedocs since autumn 2023. (https://androidaps.readthedocs.io/en/latest/Usage/FullClosedLoop.html. ).
 Pre-requisites and the principal function of a Full Closed Loop, without the user ever giving a bolus and without entering any carb info are explained, also in a couple of other languages, there.
 The essential points are summarized also below, in section 1.
