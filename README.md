@@ -1,4 +1,4 @@
-Exploring Full Closed Loop potential of-autoISF-3.0   *- -  V.2.0 ff pdfs are ready for public. (include DIY UserInterface) - -*
+     DO NOT USE THIS BRANCH   -   for up-to-date version  see default branch "FCL-book-autoISF" (in pdf)
 
 0. Introduction                                                  readme.md in github/ bernie4375   V.2.1
    Exploring Full Closed Loop potential of-autoISF-3.0    (=        
