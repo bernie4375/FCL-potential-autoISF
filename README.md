@@ -10,15 +10,15 @@ Nothing in this site is medical advice, but meant to stimulate patient-driven se
 Never copy what others report to use, but investigate and adjust to your data. Neglecting safety instructions, and just using the “buttons” that are made available in a supposed “learning by doing” mode, would be very dangerous with the early development stage tools this research paper is about. 
 In case you choose to get deeper involved, run the system disconnected, parallel to your current glucose management, to learn its behavior before eventually considering (on own risk) to go any further. Please stay connected and share experiences, too.
 
-Introduction. 
+Introduction.-  
 Full Closed Loop using Automations is represented in AAPS Master and in the related readthedocs since autumn 2023. (https://androidaps.readthedocs.io/en/latest/Usage/FullClosedLoop.html. ).
 Pre-requisites and the principal function of a Full Closed Loop, without the user ever giving a bolus and without entering any carb info are explained, also in a couple of other languages, there.
 The essential points are summarized also below, in section 1.
 
 autoISF is being developed as a much more sophisticated alternative for FCL, aiming at higher %TIR performance and/or higher degree of daily „freedom“ than simpler approaches to FCL could.
-However, this demands much higher degree of involvement by the user - as you shall see, follow-ing us through this paper. Of note, parts of this paper marked in green color, notably sections 5.3 and 6.3 describing functions of the "FCL cockpit" are not implemented at launch because develop-ment focus had to be on more core functions. For most of these “missing elements”, work arounds are described, often involving a similarly ease to use (but requiring some extra work in your set-up) DIY FCL cockpit (see section 5.2.2.3 and 6.3 and case studies 5.2 and 6.2)
+However, this demands much higher degree of involvement by the user - as you shall see, follow-ing us through this paper. Of note, parts of this paper marked in green color, notably sections 5.3 and 6.4 describing functions of the "improved FCL cockpit" are not implemented at launch because development focus had to be on more core functions. For most of these “missing elements”, work arounds are described, often involving a similarly ease to use (but requiring some extra work in your set-up) DIY FCL cockpit (see section 5.2.2.3 and 6.3 and case studies 5.2 and 6.2)
 
-With autoISF, and especially with the intention to use it for Full Closed Loop, you are in the early development area. It is therefore important to observe the disclaimer given above, and the warn-ings given below, as well as the hints given by the developers in the respective manuals (readme files on their Github pages. For autoISF with AAPS the main ones are https://github.com/T-o-b-i-a-s/AndroidAPS/ and https://github.com/ga-zelle/autoISF/ ).
+With autoISF, and especially with the intention to use it for Full Closed Loop, you are in the early development area. It is therefore important to observe the disclaimer given above, and the warnings given below, as well as the hints given by the developers in the respective manuals (readme files on their Github pages. For autoISF with AAPS the main ones are https://github.com/T-o-b-i-a-s/AndroidAPS/ and https://github.com/ga-zelle/autoISF/ ).
 
 autoISF has also been ported into an early development branch of iAPS (oref(1) for i-Phone) (https://github.com/mountrcg/iAPS). To keep safe, please carefully observe the “readme” in github, the lack of an Automation feature and partially different nomenclature in iAPS compared to AAPS, and the very virulent discussions, notably relating to the iAPS main branch, in Discord.
 
@@ -63,7 +63,7 @@ Full Closed Loop (FCL) Using autoISF 3.0  -      v.2.3
      4.6  Tuning initial settings
      4.7  Profile helper  
                 Case study 4.1: Pizza      
-6.  Temp. Modulation of autoISF Aggressiveness  
+5.  Temp. Modulation of autoISF Aggressiveness  
      5.1  Automatic modulation of loop aggressiveness 
            5.1.1 autoISF off outside of meal windows
            5.1.2 SMB off @ odd profile target
@@ -91,7 +91,7 @@ Full Closed Loop (FCL) Using autoISF 3.0  -      v.2.3
            5.4.3  FCL related indicator fields
            5.4.4  Overall AAPS home screen
                   Case study 5.2: Sweet snacks / Glühwein w/ DIY cockpit
-7.  Temp. Modulation for Exercise and light (In-)Activity   
+6.  Temp. Modulation for Exercise and light (In-)Activity   
        6.1  Dynamic iobTH and sensitivity ratio
             6.1.1 Manual (direct) iobTH modulation
             6.1.2 Automations for iobTH modulation
@@ -109,18 +109,18 @@ Full Closed Loop (FCL) Using autoISF 3.0  -      v.2.3
           6.5.3 Using pre-sets in improved FCL cockpit
      6.6  Activity monitor based on stepcounter   
                 Case study 6.2 Biking day with hi carb lunch; DIY cockpit   
-8. Kids: Mastering additional Challenges (fragment, to be completed NN)
-9. Performance Monitoring and Tuning   
+7. Kids: Mastering additional Challenges (fragment, to be completed NN)
+8. Performance Monitoring and Tuning   
                Case study 8.2: Futility of tuning based on 1 extreme meal  
-10. Trouble Shooting      
-11. Emulator on PC to Determine Settings (fragment, to be completed NN)
+9. Trouble Shooting      
+10. Emulator on PC to Determine Settings (fragment, to be completed NN)
      10.1  Logfile Analysis              
      10.2  What-if investigations
-12. Emulator on the Smartphone (fragment, to be completed NN)
+11. Emulator on the Smartphone (fragment, to be completed NN)
     11.1   AAPS home screen access to table, chart of ISF contributors for last 3 hours
     11.2   „what-if“: Real time alternative suggestions with speech synthesis)
-13. Remarks for Users of previous autoISF Versions  
-14. Other Avenues to Full Closed Loop
+12. Remarks for Users of previous autoISF Versions  
+13. Other Avenues to Full Closed Loop
      13.1 FCL using AAPS Master and Automations
                Case study 13.1: Comparison 1 mo FCL Automation vs autoISF  
      13.2  dynamicISF used for Full Closed Loop
