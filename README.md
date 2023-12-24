@@ -1,7 +1,7 @@
 
 
 
-      0. Introduction                                                  readme.md in github/ bernie4375   V.2.1
+      0. Introduction                                                  readme.md in github/ bernie4375   V.2.3
              Exploring Full Closed Loop potential of-autoISF-3.0    (=        
 
 Disclaimer – Important to read and understand 
