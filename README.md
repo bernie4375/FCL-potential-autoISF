@@ -42,7 +42,7 @@ Full Closed Loop (FCL) Using autoISF 3.0  -      v.2.3
                   Case study 1.2: Comparing insulins for FCL 
                   Case study 1.3: Jumpy CGM  
                   Case study 1.4: Lost pump connection
-                  Case study 1.5: Reliable CGMN values via 2 x G6
+                  Case study 1.5: Reliable CGM values via 2 x G6
 3. General Settings for Full Closed Loop  
      2.1  Range Extension (smb_max_range_extension)
      2.2  Max and Min autoISF Ratio (autoISF_min / autoISF_max)
