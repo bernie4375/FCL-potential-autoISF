@@ -42,19 +42,20 @@ Full Closed Loop (FCL) Using autoISF 3.0  -      v.2.3
                   Case study 1.2: Comparing insulins for FCL 
                   Case study 1.3: Jumpy CGM  
                   Case study 1.4: Lost pump connection
-2. General Settings for Full Closed Loop  
+                  Case study 1.5: Reliable CGMN values via 2 x G6
+3. General Settings for Full Closed Loop  
      2.1  Range Extension (smb_max_range_extension)
      2.2  Max and Min autoISF Ratio (autoISF_min / autoISF_max)
      2.3  SMB Delivery Ratio (smb_delivery_ratio)
      2.4  iobTH (iob_threshold_percent)  
      2.5	 Eating Soon TT ?     
-3. Description of autoISF 3.0 Features  
+4. Description of autoISF 3.0 Features  
      3.1 Overview      
      3.2 ISF modulation flowcharts
      3.3 dynamic iobTH and exercise button 
      3.4 Automation options with autoISF parameters
      3.5 Activity monitor
-4.  Meals: Setting ISF_weights in AAPS/Preferences  
+5.  Meals: Setting ISF_weights in AAPS/Preferences  
      4.1  Getting started
      4.2  bgAccel_ISF_weight 
      4.3  pp_ISF_weight
@@ -62,8 +63,9 @@ Full Closed Loop (FCL) Using autoISF 3.0  -      v.2.3
      4.5  dura_ISF_weight
      4.6  Tuning initial settings
      4.7  Profile helper  
-                Case study 4.1: Pizza      
-5.  Temp. Modulation of autoISF Aggressiveness  
+                Case study 4.1: Pizza
+                Case study 4.3: Hands-off FCL on Xmas     
+7.  Temp. Modulation of autoISF Aggressiveness  
      5.1  Automatic modulation of loop aggressiveness 
            5.1.1 autoISF off outside of meal windows
            5.1.2 SMB off @ odd profile target
@@ -91,7 +93,7 @@ Full Closed Loop (FCL) Using autoISF 3.0  -      v.2.3
            5.4.3  FCL related indicator fields
            5.4.4  Overall AAPS home screen
                   Case study 5.2: Sweet snacks / Glühwein w/ DIY cockpit
-6.  Temp. Modulation for Exercise and light (In-)Activity   
+8.  Temp. Modulation for Exercise and light (In-)Activity   
        6.1  Dynamic iobTH and sensitivity ratio
             6.1.1 Manual (direct) iobTH modulation
             6.1.2 Automations for iobTH modulation
@@ -109,18 +111,18 @@ Full Closed Loop (FCL) Using autoISF 3.0  -      v.2.3
           6.5.3 Using pre-sets in improved FCL cockpit
      6.6  Activity monitor based on stepcounter   
                 Case study 6.2 Biking day with hi carb lunch; DIY cockpit   
-7. Kids: Mastering additional Challenges (fragment, to be completed NN)
-8. Performance Monitoring and Tuning   
+9. Kids: Mastering additional Challenges (fragment, to be completed NN)
+10. Performance Monitoring and Tuning   
                Case study 8.2: Futility of tuning based on 1 extreme meal  
-9. Trouble Shooting      
-10. Emulator on PC to Determine Settings (fragment, to be completed NN)
+11. Trouble Shooting      
+12. Emulator on PC to Determine Settings (fragment, to be completed NN)
      10.1  Logfile Analysis              
      10.2  What-if investigations
-11. Emulator on the Smartphone (fragment, to be completed NN)
+13. Emulator on the Smartphone (fragment, to be completed NN)
     11.1   AAPS home screen access to table, chart of ISF contributors for last 3 hours
     11.2   „what-if“: Real time alternative suggestions with speech synthesis)
-12. Remarks for Users of previous autoISF Versions  
-13. Other Avenues to Full Closed Loop
+14. Remarks for Users of previous autoISF Versions  
+15. Other Avenues to Full Closed Loop
      13.1 FCL using AAPS Master and Automations
                Case study 13.1: Comparison 1 mo FCL Automation vs autoISF  
      13.2  dynamicISF used for Full Closed Loop
