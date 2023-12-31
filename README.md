@@ -132,8 +132,9 @@ Full Closed Loop (FCL) Using autoISF 3.0  -      v.2.3
              13.3.3.4  Tsunami 
      13.4  No-bolus Looping with precise Carb Inputs   
      13.5  Machine Learning (AI)  
-     13.6 Dual Hormone Systems
+     13.6 Dual Hormone Systems  .                   .                 .
                Case study 13.1: Comparison 1 mo FCL Automation vs autoISF
                Case study 13.2: Using dynISF for FCL ( NN  )
+    
 
             
