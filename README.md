@@ -22,7 +22,7 @@ With autoISF, and especially with the intention to use it for Full Closed Loop, 
 
 autoISF has also been ported into an early development branch of iAPS (oref(1) for i-Phone) (https://github.com/mountrcg/iAPS). To keep safe, please carefully observe the “readme” in github, the lack of an Automation feature and partially different nomenclature in iAPS compared to AAPS, and the very virulent discussions, notably relating to the iAPS main branch, in Discord.
 
-First of all, a tip: If the following looks too complicated for you - and it's not just about understanding, but also about time requirements and discipline during experimentation and data analysis - you would be well advised to first try the Full Closed Loop in a simpler form with Automations (refer-ence see above, and section 13.1): Depending on the quality of their HCL tuning they are starting from, their expectations for %TIR, and on rapid carb contents of their diet, an increasing number of people succeed in making a respectable start the first time they try using AAPS in that much simpler Full Closed Loop mode.
+First of all, a tip: If the following looks too complicated for you - and it's not just about understanding, but also about time requirements and discipline during experimentation and data analysis - you would be well advised to first try the Full Closed Loop in a simpler form with Automations (reference see above, and section 13.1): Depending on the quality of their HCL tuning they are starting from, their expectations for %TIR, and on rapid carb contents of their diet, an increasing number of people succeed in making a respectable start the first time they try using AAPS in that much simpler Full Closed Loop mode.
 See also the first published medical study that included 16 patients using AAPS, who found, on average, comparable %TIR performance when using a basic Full Closed Loop mode: https://pubmed.ncbi.nlm.nih.gov/36826996/
 
 Alternatively you can use some techniques used in hybrid closed loop, such as using a pre-bolus with autoISF, or explore other early-DEV-variants mentioned in section 13.3, which also undergo permanent further development (Boost, AIMI, EatingNow, Tsunami).
@@ -44,10 +44,10 @@ Full Closed Loop (FCL) Using autoISF 3.0  -      v.2.3
                   Case study 1.4: Lost pump connection
                   Case study 1.5: Reliable CGM values via 2 x G6
 2. General Settings for Full Closed Loop  
-     2.1  Range Extension (smb_max_range_extension)
-     2.2  Max and Min autoISF Ratio (autoISF_min / autoISF_max)
-     2.3  SMB Delivery Ratio (smb_delivery_ratio)
-     2.4  iobTH (iob_threshold_percent)  
+     2.1  Range Extension 
+     2.2  Max and Min autoISF Ratio 
+     2.3  SMB Delivery Ratio
+     2.4  iobTH   
      2.5  Eating Soon TT ?     
 3. Description of autoISF 3.0 Features  
      3.1 Overview      
