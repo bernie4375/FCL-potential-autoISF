@@ -126,9 +126,9 @@ Full Closed Loop (FCL) Using autoISF 3.0  -      v.2.3
      13.1 FCL using AAPS Master and Automations 
      13.2  dynamicISF used for Full Closed Loop  
      13.3   Methods involving simple Meal Announcement that might be stretched into a FCL
-             13.3.3.1  AIMI,   
-             13.3.3.2  Boost,  
-             13.3.3.3  EatNow  
+             13.3.3.1  Boost  
+             13.3.3.2  AIMI 
+             13.3.3.3  EatingNow  
              13.3.3.4  Tsunami 
      13.4  No-bolus Looping with precise Carb Inputs   
      13.5  Machine Learning (AI)  
