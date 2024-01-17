@@ -1,7 +1,7 @@
 
 
 
-      0. Introduction                                                  readme.md in github/ bernie4375   V.2.3
+      0. Introduction                                                  readme.md in github/ bernie4375   V.2.4
              Exploring Full Closed Loop potential of-autoISF-3.0    (=        
 
 Disclaimer – Important to read and understand. - 
@@ -12,7 +12,7 @@ In case you choose to get deeper involved, run the system disconnected, parallel
 
 Introduction.-  
 Full Closed Loop using Automations is represented in AAPS Master and in the related readthedocs since autumn 2023. (https://androidaps.readthedocs.io/en/latest/Usage/FullClosedLoop.html. ).
-Pre-requisites and the principal function of a Full Closed Loop, without the user ever giving a bolus and without entering any carb info are explained, also in a couple of other languages, there.
+Pre-requisites, and the principal function of a Full Closed Loop (without the user ever giving a bolus and without entering any carb info) are explained, also in a couple of other languages, there.
 The essential points are summarized also below, in section 1.
 
 autoISF is being developed as a much more sophisticated alternative for FCL, aiming at higher %TIR performance and/or higher degree of daily „freedom“ than simpler approaches to FCL could accomodate.
@@ -25,8 +25,8 @@ autoISF has also been ported into an early development branch of iAPS (oref(1) f
 First of all, a tip: If the following looks too complicated for you - and it's not just about understanding, but also about time requirements and discipline during experimentation and data analysis - you would be well advised to first try the Full Closed Loop in a simpler form with Automations (reference see above, and section 13.1): Depending on the quality of their HCL tuning they are starting from, their expectations for %TIR, and on rapid carb contents of their diet, an increasing number of people succeed in making a respectable start the first time they try using AAPS in that much simpler Full Closed Loop mode.
 See also the first published medical study that included 16 patients using AAPS, who found, on average, comparable %TIR performance when using a basic Full Closed Loop mode: https://pubmed.ncbi.nlm.nih.gov/36826996/
 
-Alternatively you can use some techniques used in hybrid closed loop, such as using a pre-bolus with autoISF, or explore other early-DEV-variants mentioned in section 13.3, which also undergo permanent further development (Boost, AIMI, EatingNow, Tsunami).
-
+Alternatively you can use some techniques used in hybrid closed loop, such as using a pre-bolus with autoISF, or explore other early-DEV-variants mentioned in section 13.3, which also undergo permanent further development (Boost, AIMI, EatingNow, Tsunami). 
+           
 Full Closed Loop (FCL) Using autoISF 3.0  -      v.2.3
           
 0. Introduction   
@@ -35,9 +35,9 @@ Full Closed Loop (FCL) Using autoISF 3.0  -      v.2.3
     1.2  Fast insulin
     1.3 Reliable insulin delivery from pump and cannula
     1.4 Excellent CGM
-    1.5 Meal-related limitations
-    1.6 Lifestyle-related limitations
-    1.7  Time required for setting-up
+    1.5 Meal-related limitations ?
+    1.6 Lifestyle-related limitations ?
+    1.7 Time required for setting-up
                   Case study 1.1: Occlusion   
                   Case study 1.2: Comparing insulins for FCL 
                   Case study 1.3: Jumpy CGM  
@@ -78,7 +78,7 @@ Full Closed Loop (FCL) Using autoISF 3.0  -      v.2.3
            5.2.2 Manual interventions from DIY cockpit
                 5.2.2.1  Temp. %profile or TT settings
                 5.2.2.2  Temp. settings in /preferences
-                 5.2.2.3  Grey DIY cockpit buttons for pre-programmed FCL responses 
+                5.2.2.3  Grey DIY cockpit buttons for pre-programmed FCL responses 
           5.2.3 Temporary exit from FCL
      5.3  Manual modulation of FCL aggressiveness via improved cockpit
          5.3.1  Violet FCL icon and underlying buttons 
@@ -126,10 +126,10 @@ Full Closed Loop (FCL) Using autoISF 3.0  -      v.2.3
      13.1 FCL using AAPS Master and Automations 
      13.2  dynamicISF used for Full Closed Loop  
      13.3   Methods involving simple Meal Announcement that might be stretched into a FCL
-             13.3.3.1  Boost  
-             13.3.3.2  AIMI 
-             13.3.3.3  EatingNow  
-             13.3.3.4  Tsunami 
+             13.3.1  Boost  
+             13.3.2  AIMI 
+             13.3.3  EatingNow  
+             13.3.4  Tsunami 
      13.4  No-bolus Looping with precise Carb Inputs   
      13.5  Machine Learning (AI)  
      13.6 Dual Hormone Systems  .                   .                 .
