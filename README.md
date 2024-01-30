@@ -136,7 +136,7 @@ Full Closed Loop (FCL) Using autoISF 3.0  -      v.2.3
                Case study 13.1: Comparison 1 mo FCL Automation vs autoISF
                Case study 13.2: Using dynISF for FCL ( NN  )
 
-    PRESS  " <code> "  ON TOP LEFT OF THIS GITHUB PAGE, TO ACCESS THE PDFs FOR EACH SECTION
+    PRESS  " >< code  "  ON THE VERY TOP LEFT OF THIS GITHUB PAGE, TO ACCESS THE PDFs FOR EACH SECTION
     
     
 
