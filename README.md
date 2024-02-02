@@ -30,6 +30,7 @@ Alternatively you can use some techniques used in hybrid closed loop, such as us
 Full Closed Loop (FCL) Using autoISF 3.0  -      v.2.3
           
 0. Introduction and  Glossary  
+                    PRESS  " <> code  "  ON THE VERY TOP LEFT OF THIS GITHUB PAGE, TO ACCESS THE PDFs FOR EACH SECTION
 1. Pre-Requisites for Full Closed Loop 
     1.1  Well tuned hybrid closed loop
     1.2  Fast insulin
