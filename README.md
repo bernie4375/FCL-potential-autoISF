@@ -1,7 +1,7 @@
 
 
 
-      0. Introduction                                                  readme.md in github/ bernie4375   V.2.4
+      0. Introduction and  Glossary                                                   readme.md in github/ bernie4375   V.2.4
              Exploring Full Closed Loop potential of-autoISF-3.0    (=        
 
 Disclaimer – Important to read and understand. - 
@@ -29,7 +29,7 @@ Alternatively you can use some techniques used in hybrid closed loop, such as us
            
 Full Closed Loop (FCL) Using autoISF 3.0  -      v.2.3
           
-0. Introduction   
+0. Introduction and  Glossary  
 1. Pre-Requisites for Full Closed Loop 
     1.1  Well tuned hybrid closed loop
     1.2  Fast insulin
