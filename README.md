@@ -1,7 +1,7 @@
 
 
 
-      0. Introduction and  Glossary                                                   readme.md in github/ bernie4375   V.2.4
+      0. Introduction and  Glossary                                                   readme.md in github/ bernie4375   V.2.5
              Exploring Full Closed Loop potential of-autoISF-3.0    (=        
 
 Disclaimer – Important to read and understand. - 
@@ -20,14 +20,14 @@ However, this demands much higher degree of involvement by the user - as you sha
 
 With autoISF, and especially with the intention to use it for Full Closed Loop, you are in the early development area. It is therefore important to observe the disclaimer given above, and the warnings given below, as well as the hints given by the developers in the respective manuals (readme files on their Github pages. For autoISF with AAPS the main ones are https://github.com/T-o-b-i-a-s/AndroidAPS/ and https://github.com/ga-zelle/autoISF/ ).
 
-autoISF has also been ported into an early development branch of iAPS (oref(1) for i-Phone) (https://github.com/mountrcg/iAPS). To keep safe, please carefully observe the “readme” in github, the lack of an Automation feature and partially different nomenclature in iAPS compared to AAPS, and the very virulent discussions, notably relating to the iAPS main branch, in Discord.
+autoISF has also been ported into an early development branch of iAPS (oref(1) for i-Phone) (https://github.com/mountrcg/iAPS). Unless you are ready to read a lot, re-set some things about your HCL iAPS first, and do a several weeks if not months long project to get FCL running, please stay with what you have. Besides lacking mandatory "education" by "Objectives", iAPS users also are disadvantaged re. FCL because of the lack of an Automation feature (and partially different nomenclature in iAPS compared to AAPS).  
 
-First of all, a tip: If the following looks too complicated for you - and it's not just about understanding, but also about time requirements and discipline during experimentation and data analysis - you would be well advised to first try the Full Closed Loop in a simpler form with Automations (reference see above, and section 13.1): Depending on the quality of their HCL tuning they are starting from, their expectations for %TIR, and on rapid carb contents of their diet, an increasing number of people succeed in making a respectable start the first time they try using AAPS in that much simpler Full Closed Loop mode.
+First of all, a tip: If the following looks too complicated for you - and it's not just about understanding, but also about time requirements and discipline during experimentation and data analysis - AAPS users would be well advised to first try the Full Closed Loop in a simpler form with Automations (reference see above, and section 13.1): Depending on the quality of their HCL tuning they are starting from, their expectations for %TIR, and on rapid carb contents of their diet, an increasing number of people succeed in making a respectable start the first time they try using AAPS in that much simpler Full Closed Loop mode.
 See also the first published medical study that included 16 patients using AAPS, who found, on average, comparable %TIR performance when using a basic Full Closed Loop mode: https://pubmed.ncbi.nlm.nih.gov/36826996/
 
-Alternatively you can use some techniques used in hybrid closed loop, such as using a pre-bolus with autoISF, or explore other early-DEV-variants mentioned in section 13.3, which also undergo permanent further development (Boost, AIMI, EatingNow, Tsunami). 
+Alternatively you can use some techniques used in hybrid closed loop, such as using a pre-bolus with autoISF, or explore other early-DEV-variants (of AAPS) mentioned in section 13.3, which also undergo permanent further development (Boost, AIMI, EatingNow, Tsunami). 
            
-Full Closed Loop (FCL) Using autoISF 3.0  -      v.2.3
+Full Closed Loop (FCL) Using autoISF 3.0  -      v.2.5
           
 0. Introduction and  Glossary  
                     PRESS  " <> code  "  ON THE VERY TOP LEFT OF THIS GITHUB PAGE, TO ACCESS THE PDFs FOR EACH SECTION
