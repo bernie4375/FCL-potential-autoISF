@@ -2,7 +2,7 @@ Exploring Full Closed Loop potential of-autoISF-3.x   *- VERSION IN WORD FORMATS
 
 Documents are given in WORD format here, 
    * for easier translations,
-   * or if you wish to use parts of the text in your paper
+   * or if you wish to use parts of the text in a paper you are preparing
    * or to suggest changes in the general pdf file
      
 (( Feel free to use, this is OPEN SOURCE ))
