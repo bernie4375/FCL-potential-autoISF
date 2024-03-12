@@ -1,4 +1,4 @@
-Exploring Full Closed Loop potential of-autoISF-3.x   *- VERSION IN WORD FORMATS <- THIS MIGHT NOT BE UP-TO-DATE - USE DEFAULT "FCL-book-autoISF" PDF BRANCH -* ..                          Here Files 
+Exploring Full Closed Loop potential of-autoISF-3.x   *- VERSION IN WORD FORMATS <- THIS MIGHT NOT BE UP-TO-DATE - USE DEFAULT "FCL-book-autoISF" PDF BRANCH -* ..                           
 
 Documents are given in WORD format here, 
    * for easier translations,
