@@ -7,3 +7,5 @@ Documents are given in WORD format here,
      
 (( Feel free to use, this is OPEN SOURCE ))
 
+Note: YOU are responsible to periodically read the English pdf original for eventual changes made: Important ones might need to be carried into your version, too
+
