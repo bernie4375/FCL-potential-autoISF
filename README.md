@@ -135,7 +135,8 @@ Full Closed Loop (FCL) Using autoISF 3.0  -      v.2.5
      13.5  Machine Learning (AI)  
      13.6 Dual Hormone Systems  .                   .                 .
                Case study 13.1: Comparison 1 mo FCL Automation vs autoISF
-               Case study 13.2: Using dynISF for FCL ( NN  )
+               Case study 13.2: Using dynISF for FCL ( NN /call for a case! )
+               Case Study 13.3: Using Boost for FCL
 
     PRESS  " <> code  "  ON THE VERY TOP LEFT OF THIS GITHUB PAGE, TO ACCESS THE PDFs FOR EACH SECTION
     
