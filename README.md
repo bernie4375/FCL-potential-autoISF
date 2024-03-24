@@ -3,7 +3,8 @@
      This branch is temp. in use to prepare for the new autoISF 3.0.1
 
      Section 02  requires dev/early testers review in lines 2, 23, 67, 110, 176 and 191
-                Uncertainties relate especially to the 1-minute Libre3 integration which the author does not use
+                Uncertainties relate especially to the 1-minute Libre3 integration 
+                which the author does not use
 
      Section 04 requires reviw in lines 472 and 475
 
