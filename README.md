@@ -10,7 +10,7 @@
                 Uncertainties relate to the 1-minute Libre3  
                 which the author does not use
 
-     Section 04 requires reviw in lines 472 and 475
+     Section 04    requires review in lines 465 ff
 
      Section 05   lines 162 &  202
 
