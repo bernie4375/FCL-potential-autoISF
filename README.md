@@ -4,10 +4,10 @@
      
      To view odt files, click on desired file, then click on "download raw" button in the (smaller, middle) grey field  
 
-     Section o1   line  172
+     Section o1   line  172  to be checked
 
-     Section 02  requires dev/early testers review in lines 2, 23, 67, 110, 176 and 191
-                Uncertainties relate especially to the 1-minute Libre3 integration 
+     Section 02  requires dev/early testers review in lines 25 and 110
+                Uncertainties relate to the 1-minute Libre3  
                 which the author does not use
 
      Section 04 requires reviw in lines 472 and 475
