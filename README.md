@@ -12,6 +12,6 @@
      Section 04    requires review in lines 481 - 486 (re bg_ISF related weights)
 
 
-     Section 06   lines  300  and  495
+     Section 06   lines  336  and  536
 
  
