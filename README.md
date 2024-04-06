@@ -4,15 +4,13 @@
      
      To view odt files, click on desired file, then click on "download raw" button (in the smaller, middle grey field)  
 
-     Section o1   line  172  to be checked
 
-     Section 02  requires dev/early testers review in lines 25 and 110
-                Uncertainties relate to the 1-minute Libre3  
-                which the author does not use
+     Section 02  requires dev/early testers review in line 70  
+                (Uncertainty relatey to the 1-minute Libre3  
+                which the author does not use)
 
-     Section 04    requires review in lines 465 ff
+     Section 04    requires review in lines 481 - 486 (re bg_ISF related weights)
 
-     Section 05   line  811
 
      Section 06   lines  300  and  495
 
