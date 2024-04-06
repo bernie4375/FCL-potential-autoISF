@@ -1,4 +1,4 @@
-*This is a repository of documents that support setting up a no-bolus no carb-inputs Full Closed Loop (aka "FCL e-book"). Focus is on AAPS based autoISF, but other methods are discussed and referenced, as well.
+*This is a repository of documents (aka "FCL e-book") that supports setting up a no-bolus no carb-inputs Full Closed Loop. Focus is on AAPS-based autoISF, but other methods are discussed and referenced, as well.
 To access the pdf files, you may need to go to "<> code" on very top left side of this page* 
 
 Introduction.-  
