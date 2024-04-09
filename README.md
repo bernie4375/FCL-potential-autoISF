@@ -2,7 +2,7 @@
 
      This branch is temp. in use to prepare for the new autoISF 3.0.1
      
-     To view odt files, click on desired file, then click on "download raw" button (in the smaller, middle grey field)  
+     To view odt files, click on desired file, then click on "download raw" button (middle of 5 buttons in grey field, above right)  
 
 
      Section 02  requires dev/early testers review in line 70  
