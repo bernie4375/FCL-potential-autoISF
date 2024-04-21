@@ -6,13 +6,14 @@
                                                     (middle of 5 buttons in grey field, above right)  
 
 
-     Section 02  requires dev/early testers review in line 70  
-                (Uncertainty relatey to the 1-minute Libre3  
-                which the author does not use)
+     Section 02  requires dev/early testers review related to the 1-minute Libre3  
+                (which the author does not use) :   do we need  ~1/5  of max allowed SMB size (range extention 1 or zero?) etc.
 
-     Section 04    requires review in lines 481 - 486 (re bg_ISF related weights)
+     Section 04    requires review  re bg_ISF related weights  (lines 477 - 486 )
+
+     Section 5   at very end:   user of 1-minute Libre 3 please add SMB tab specific info  (or 1-2 sentences + link into ga-zelle repo if there)
 
 
-     Section 06   lines  336  and  536
+     Section 06   line   341
 
  
