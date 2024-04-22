@@ -16,4 +16,6 @@
 
      Section 06   line   341
 
+     Do we need to say something in section on Libre 3 - 1 minute  regarding whether not (?) available // not sufficiently tested ???   ... in iAPS ??
+
  
