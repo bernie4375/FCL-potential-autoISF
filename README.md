@@ -54,7 +54,7 @@ In case you choose to get deeper involved, run the system disconnected, parallel
      3.4 Automation options with autoISF parameters
      3.5 Activity monitor
      3.6 One-minute Libre3 integration
-5.  Meals: Setting ISF_weights in AAPS/Preferences  
+4.  Meals: Setting ISF_weights in AAPS/Preferences  
      4.1  Getting started
      4.2  bgAccel_ISF_weight 
      4.3  pp_ISF_weight
@@ -65,7 +65,7 @@ In case you choose to get deeper involved, run the system disconnected, parallel
      4.8  Profile helper  
                 Case study 4.1: Pizza
                 Case study 4.3: Hands-off FCL on Xmas     
-7.  Temp. Modulation of autoISF Aggressiveness  
+5.  Temp. Modulation of autoISF Aggressiveness  
      5.1  Automatic modulation of loop aggressiveness 
            5.1.1 autoISF off outside of meal windows
            5.1.2 SMB off @ odd profile target
@@ -93,7 +93,7 @@ In case you choose to get deeper involved, run the system disconnected, parallel
            5.4.3  FCL related indicator fields
            5.4.4  Overall AAPS home screen
                   Case study 5.2: Sweet snacks / Glühwein w/ DIY cockpit
-8.  Temp. Modulation for Exercise and light (In-)Activity   
+6.  Temp. Modulation for Exercise and light (In-)Activity   
        6.1  Dynamic iobTH and sensitivity ratio
             6.1.1 Manual (direct) iobTH modulation
             6.1.2 Automations for iobTH modulation
@@ -111,18 +111,18 @@ In case you choose to get deeper involved, run the system disconnected, parallel
           6.5.3 Using pre-sets in improved FCL cockpit
      6.6  Activity monitor based on stepcounter   
                 Case study 6.2 Biking day with hi carb lunch; DIY cockpit   
-9. Kids: Mastering additional Challenges (fragment, to be completed NN)
-10. Performance Monitoring and Tuning   
+7. Advanced HCL (Meal Announcement, MA) (fragment, to be completed NN)
+8. Performance Monitoring and Tuning   
                Case study 8.2: Futility of tuning based on 1 extreme meal  
-11. Trouble Shooting      
-12. Emulator on PC to Determine Settings (fragment, to be completed NN)
+9. Trouble Shooting      
+10. Emulator on PC to Determine Settings (fragment, to be completed NN)
      10.1  Logfile Analysis              
      10.2  What-if investigations
-13. Emulator on the Smartphone (fragment, to be completed NN)
+11. Emulator on the Smartphone (fragment, to be completed NN)
     11.1   AAPS home screen access to table, chart of ISF contributors for last 3 hours
     11.2   „what-if“: Real time alternative suggestions (with speech synthesis)
-14. Remarks for Users of previous autoISF Versions  
-15. Other Avenues to Full Closed Loop
+12. Remarks for Users of previous autoISF Versions  
+13. Other Avenues to Full Closed Loop
      13.1 FCL using AAPS Master and Automations 
      13.2  dynamicISF used for Full Closed Loop  
      13.3   Methods involving simple Meal Announcement that might be stretched into a FCL
