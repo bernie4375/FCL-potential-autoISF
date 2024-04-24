@@ -125,7 +125,7 @@ In case you choose to get deeper involved, run the system disconnected, parallel
 13. Other Avenues to Full Closed Loop
      13.1 FCL using AAPS Master and Automations 
      13.2  dynamicISF used for Full Closed Loop  
-     13.3   Methods involving simple Meal Announcement that might be stretched into a FCL
+     13.3   Methods involving simple Meal Announcement that might be stretched into a FCL (see also 7.)
              13.3.1  Boost  
              13.3.2  AIMI 
              13.3.3  EatingNow  
