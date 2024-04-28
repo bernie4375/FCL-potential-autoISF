@@ -6,9 +6,7 @@
                                                     (middle of 5 buttons in grey field, above right)  
 
 
-     Section 02  requires dev/early testers review related to the 1-minute Libre3  
-                (which the author does not use) :   do we need  ~1/5  of max allowed SMB size 
-                (range extention 1 or zero?) etc.
+     Section 02  line 123    implications 1 minute Libre3 for for SMB delivery ratio ? 
 
      Section 04    requires review  re bg_ISF related weights  (lines 477 - 486 )
 
@@ -16,11 +14,11 @@
      (or 1-2 sentences + link into ga-zelle repo if there)
 
 
-     Section 06   line   341
+     Section 06   line   341   re. Libre 3 and iAPS
 
-     Do we need to say something in section on Libre 3 - 1 minute in iAPS: regarding whether 
-     - not (?) available
-     -. not sufficiently tested ???  
+     Do we need to say something  regarding whether 
+     -  not (?) available
+     -  not sufficiently tested ???  
      
 
  
