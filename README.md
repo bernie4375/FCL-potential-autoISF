@@ -1,5 +1,5 @@
 *This is a repository of documents (aka "FCL e-book") that supports setting up a no-bolus no carb-inputs Full Closed Loop. Focus is on AAPS-based autoISF, but other methods are discussed and referenced, as well.
-To access the pdf files, you may need to go to "<> code" on very top left side of this page*   Note: An update is in preparation, see fork "update...3.0.1"
+To access the pdf files, you may need to go to "<> code" on very top left side of this page*   Note: An update is in preparation, see fork "...update...3.0.1"
 
 Introduction.-  
 Full Closed Loop using Automations is represented in AAPS Master and in the related readthedocs since autumn 2023. (https://androidaps.readthedocs.io/en/latest/Usage/FullClosedLoop.html. ).
