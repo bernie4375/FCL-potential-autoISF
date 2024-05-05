@@ -111,7 +111,7 @@ In case you choose to get deeper involved, run the system disconnected, parallel
           6.5.3 Using pre-sets in improved FCL cockpit
      6.6  Activity monitor based on stepcounter   
                 Case study 6.2 Biking day with hi carb lunch; DIY cockpit   
-7. Advanced HCL (Meal Announcement, MA) (fragment, to be completed NN)
+7. Advanced HCL: Meal Announcement (MA) by pre-bolussing
 8. Performance Monitoring and Tuning   
                Case study 8.2: Futility of tuning based on 1 extreme meal  
 9. Trouble Shooting      
