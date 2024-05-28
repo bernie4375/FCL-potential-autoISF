@@ -6,7 +6,8 @@
       The case studies mostly sit in the current default
 
      (Feature differences to 3.0 are minor, see section 12)
-     (This new set of pdfs contains lots of general improvements; some reflect 
+     (This new set of pdfs contains lots of general improvements
+     - in the subject matter, sorry, not in readability -; some reflect 
      user experience shared in Discord)
      
      
