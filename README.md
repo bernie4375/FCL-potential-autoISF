@@ -10,7 +10,7 @@
      reflecting some user experience (Discord) 
      
      Sorry, any hopes for easier readability must be disappointed,
-     notably as now including "everything" about the emulator now, too.
+     notably as including "everything" about the emulator now, too.
      
      
 
