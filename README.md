@@ -1,14 +1,16 @@
-     The current default branch "FCL-book-autoISF" (in pdf) is for autoISF 3.0
+     
+     This branch is an update prepared for the soon (early June)-to-be launched autoISF 3.0.1
 
-     This branch is an update prepared for the soon-to-be launched autoISF 3.0.1
+     The current default branch is still  "FCL-book-autoISF" (in pdf; for autoISF 3.0).
 
-      Sections 03 and 11 are not launch-ready quite yet
-      The case studies mostly sit in the current default
-
-     (Feature differences to 3.0 are minor, see section 12)
-     (This new set of pdfs contains lots of general improvements
-     - in the subject matter, sorry, not in readability -; some reflect 
-     user experience shared in Discord)
+     Feature differences to 3.0 are minor (see section 12), so
+     it is probably a good idea to use THIS branch, that will soon turn into default, now:
+     
+     This new set of pdfs contains lots of general improvements, 
+     reflecting some user experience (Discord) 
+     
+     Sorry, any hopes for easier readability must be disappointed,
+     notably as now including "everything" about the emulator, too.
      
      
 
