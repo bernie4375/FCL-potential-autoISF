@@ -1,4 +1,4 @@
-*This is the (outdated) "FCL e-book") that went with autoISF 3.0
+*This is the (outdated) "FCL e-book"  that went with autoISF 3.0
 
  
 **Nothing in this site is medical advice, but it is meant to stimulate patient-driven self-responsible re-search**, *and also to stimulate product developments by the medical industry. Anything you try to conclude for yourself, you do on own risk. This is by no means a medical product but what is offered is a toolset for participating in development. 
