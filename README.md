@@ -2,7 +2,7 @@
      This is a repository of documents (aka "FCL e-book") that supports setting up 
      a no-bolus no carb-inputs Full Closed Loop (FCL). 
      
-While easy-to-use once it is properly set up, please observe that 
+While easy-to-use once it is properly set up, please observe that setting your FCL up is a serious multi-week project for which: 
 * certain pre-requisites must be given, and 
 * the suggested sequence for the initial tuning of your system should be followed.
      
