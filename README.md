@@ -10,7 +10,9 @@ While easy-to-use once it is properly set up, please observe that
 Focus is on AAPS-based autoISF (v. 3.0.1 and higher), 
 but other methods are discussed and referenced, as well.
 
-Who already had a running FCL based on the previous autoISF version, should primarily read section 12
+Who already had a running FCL based on the previous autoISF version, should primarily read section 12.
+
+AAPS users are encouraged to give the emulator another try, with sections 10 and 11 now available.
      
 To access the pdf files, you may need to go to "<> code" on very top left side of this page   
 
