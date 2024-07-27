@@ -7,8 +7,8 @@ Please observe that setting your FCL up is a serious multi-week project for whic
 * the suggested sequence for the initial tuning of your system should be followed.
      
      
-Focus is on AAPS-based autoISF (section 4 holds the core description), 
-but other methods are discussed and referenced, as well (sections 7 and 13).
+Focus is on AAPS-based autoISF (section 04 holds the core description), 
+but other methods are discussed and referenced, as well (sections 07 and 13).
 
 Who already had a running FCL based on the previous autoISF version, should primarily read section 12.
 
