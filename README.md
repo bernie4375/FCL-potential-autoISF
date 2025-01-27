@@ -2,7 +2,8 @@
      This is a repository of documents (aka "FCL e-book") that supports setting up 
      a no-bolus no carb-inputs Full Closed Loop (FCL). 
      
-     BEGINNERS: Please click on bernie4375 (top left) to go to parallel repository " HCL-Meal Management..."!
+     BEGINNERS: Please click on bernie4375 (top left) 
+     to go to parallel repository " HCL-Meal Management..."!
      
 Please observe that setting your FCL up is a serious multi-week project for which: 
 * certain pre-requisites must be given, and 
