@@ -17,7 +17,7 @@ Other methods are discussed and referenced, as well (sections 07 and 13).
 
 Who already had a running FCL based on the previous autoISF version, should primarily read section 12.
 
-AAPS users who use the emulator : sections 10 and 11 probably need a bit of re-work for latest autoISF and AAPS (suggestions from users welcome!).
+AAPS users who use the emulator : sections 10 and 11 probably need a bit of re-work for latest autoISF and AAPS (Suggestions from users welcome: Feel free to make changes using the  WORD documents of the neighboring branch!).
      
 To access the pdf files, you may need to go to "<> code" on very top left side of this page   
 
