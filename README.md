@@ -11,7 +11,11 @@ There are pre-requisites for doing this (section 01_), and you will have to deci
 
 autoISF is probably the best approach for a FCL. It strongly modulates ISF. A brief summary is given in section 04, chapter 4.1.2 (just 2 pages). 
 
-Please try to follow the sequence of chapters. However, use (and study deeper) only what youz think suits you. FCL always builds on YOUR personal patterns. 
+Please try to follow the sequence of chapters. However, use (and study deeper) only what you think suits you. FCL always builds on YOUR personal patterns. 
+
+Please observe the safety suggestions (e.g. section on iobTH, on SMBs off at odd temp. bg targets etc). 
+
+autoISF is a highly experimental toolset for you doing your self-responsible research! See Disclaimer: 
 
       
      Disclaimer – Important to read and understand:
