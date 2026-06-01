@@ -15,7 +15,7 @@ Please note that the key authors of autoISF original material do not have the ti
 
 Especially when you aim at Full Closed Loop, observing necessary pre-requisites and safety measures is of very high importance. This is not sufficiently highlighted in some enclosed papers. Refer to default branch! 
 
-pdf documents open directly, for others you may have to push on "downloda raw file" on the right side.
+pdf documents open directly, for others you may have to push on "download raw file" on the right side.
 
       
      Disclaimer – Important to read and understand:
