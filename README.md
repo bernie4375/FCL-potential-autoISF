@@ -1,6 +1,7 @@
      
      This is a repository of documents, FOR ADVANCED USERS, 
-     for exploration whether ChatGPT or other AI methods may be useful for using autoISF, notably also for Full Closed Loop (FCL). 
+     for exploration whether ChatGPT or other AI methods may be useful for using autoISF, 
+     notably also for Full Closed Loop (FCL). 
      
      BEGINNERS: Please click on bernie4375 (top left) 
      to go to parallel repository "HCL-Meal Management..."!
