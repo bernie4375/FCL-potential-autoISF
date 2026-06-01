@@ -1,31 +1,25 @@
      
      This is a repository of documents, FOR ADVANCED USERS, 
-     for exploration whether ChatGPT or other AI methods may be useful for using autoISF, 
-     notably also for Full Closed Loop (FCL). 
-     
+     for exploring potential routes towards Full Closd Looping, notably using autoISF. 
+    
      BEGINNERS: Please click on bernie4375 (top left) 
      to go to parallel repository "HCL-Meal Management..."!
      
 
-autoISF strongly modulates ISF. A brief summary is given in the enclosed  " 4.1.2 ..overview.pdf "  from the e-Book (just 1 page). 
+Sectiuon 00_ introduces you to the principle idea, and routres taken, to approach Full Closed Looping (FCL), which mean doing no more carb inputs, and the loop doing all necessary bolussing automatically.
+There are pre-requisites for doing thius (section 01_), and you will have to decide on your goal, and on upfront vs. every-day effort you want to invest.
 
-If you like, find out for yourself how useful any of the documents worked-on by AI might be for you, or whether the given material may help you find YOUR approach how to employ AI in this field.
+autoISF is probably the best approach for a FCL. It strongly modulates ISF. A brief summary is given in section 04, chapter 4.1.2 (just 2 pages). 
 
-Please note that the key authors of autoISF original material do not have the time to review documents on this branch. Use on own risk. Refer to the original material.
-
-Especially when you aim at Full Closed Loop, observing necessary pre-requisites and safety measures is of very high importance. This is not sufficiently highlighted in the enclosed papers. Refer to default branch! 
+Please try to follow the sequence of chapters. However, use (and study deeper) only what youz think suits you. FCL always builds on YOUR personal patterns. 
 
       
      Disclaimer – Important to read and understand:
 
-Documents enclosed in this branch are issued by ChatGPT and other AI, sometimes edited by more or less experienced autoISF users. 
-Neither this Github site owner, nor developers of autoISF, have reviewed the materials, and do not endorse. 
-Please refer to original material in the default e-Book branch, or at Github/ga-zelle.
-. 
-In case you choose to get involved with AI-support: 
-* Run your system disconnected, parallel to your current glucose management, to learn its behavior before eventually considering (on own risk) to implemnent any AI-drivewn settings.
-* Please stay connected and share experiences, too. For sharing contributions use e.g. Discord / Full Closed Looping /   https://discord.gg/xqRtvgdZKy   
-* PM Bernie @ Discord/FullClosedLooping for publishing documents in this branch. 
+Authors are no medical professionals but T1 diabetics (or parents of a T1D child) who report their -limited - understanding and experience, in an effort to contribute to a growing body of knowledge, and to facilitate development of patient centered solutions. 
+Nothing in this site is medical advice, but meant to stimulate patient-driven self-responsible re-search, and is meant also to stimulate product developments by the medical industry. Anything you try to conclude for yourself you do on own risk. This is by no means a medical product but what is offered is a toolset for participating in development. 
+Never copy what others report to use, but investigate and adjust to your data. Neglecting safety instructions, and just using the “buttons” that are made available in a supposed “learning by doing” mode, would be very dangerous with the early development stage tools this research paper is about. 
+In case you choose to get deeper involved, run the system disconnected, parallel to your current glucose management, to learn its behavior before eventually considering (on own risk) to go any further. Please stay connected and share experiences, too.
 
      
 
