@@ -13,7 +13,7 @@ If you like, find out for yourself how useful any of the documents worked-on by 
 
 Please note that the key authors of autoISF original material do not have the time to review documents on this branch. Use on own risk. Refer to the original material.
 
-Especially when you aim at Full Closed Loop, observing necessary pre-requisites and safety measures is of very high importance. This is not sufficiently highlighted in the enclosed papers. Refer to default branch! 
+Especially when you aim at Full Closed Loop, observing necessary pre-requisites and safety measures is of very high importance. This is not sufficiently highlighted in some enclosed papers. Refer to default branch! 
 
       
      Disclaimer – Important to read and understand:
