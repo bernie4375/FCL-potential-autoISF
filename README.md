@@ -7,7 +7,7 @@
      to go to parallel repository "HCL-Meal Management..."!
      
 
-For really good brief summary on autoISF, I suggest to read e-Book (default branch), section 04...pdf , chapter 4.1.2  (just 2 pages). 
+A brief summary on autoISF is given in the enclosed  " 4.1.2 ..overview.pdf "  from the e-Book (just 2 pages). 
 
 Then, if you like, find out for yourself how useful any of the documents worked-on by AI might be for you, or whether the given material may help you find YOUR approach how to employ AI in this field.
 
