@@ -6,8 +6,8 @@
      to go to parallel repository "HCL-Meal Management..."!
      
 
-Sectiuon 00_ introduces you to the principle idea, and routres taken, to approach Full Closed Looping (FCL), which mean doing no more carb inputs, and the loop doing all necessary bolussing automatically.
-There are pre-requisites for doing thius (section 01_), and you will have to decide on your goal, and on upfront vs. every-day effort you want to invest.
+Sectiuon 00_ introduces you to the principle idea, and routes taken, to approach Full Closed Looping (FCL), which means doing no more carb inputs, and the loop doing all necessary bolussing automatically.
+There are pre-requisites for doing this (section 01_), and you will have to decide on your goal, and on upfront vs. every-day effort you want to invest.
 
 autoISF is probably the best approach for a FCL. It strongly modulates ISF. A brief summary is given in section 04, chapter 4.1.2 (just 2 pages). 
 
