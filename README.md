@@ -7,9 +7,9 @@
      to go to parallel repository "HCL-Meal Management..."!
      
 
-A brief summary on autoISF is given in the enclosed  " 4.1.2 ..overview.pdf "  from the e-Book (just 2 pages). 
+autoISF strongly modulates ISF. A brief summary is given in the enclosed  " 4.1.2 ..overview.pdf "  from the e-Book (just 1 page). 
 
-Then, if you like, find out for yourself how useful any of the documents worked-on by AI might be for you, or whether the given material may help you find YOUR approach how to employ AI in this field.
+If you like, find out for yourself how useful any of the documents worked-on by AI might be for you, or whether the given material may help you find YOUR approach how to employ AI in this field.
 
 Please note that the key authors of autoISF original material do not have the time to review documents on this branch. Use on own risk. Refer to the original material.
 
