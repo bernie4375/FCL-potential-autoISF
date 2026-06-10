@@ -27,7 +27,7 @@ Please refer to original material in the default e-Book branch, or at Github/ga-
 In case you choose to get involved with AI-support: 
 * Run your system disconnected, parallel to your current glucose management, to learn its behavior before eventually considering (on own risk) to implemnent any AI-drivewn settings.
 * Please stay connected and share experiences, too. For sharing contributions use e.g. Discord / Full Closed Looping /   https://discord.gg/xqRtvgdZKy   
-* PM Bernie @ Discord/FullClosedLooping for publishing documents in this Github branch. 
+* Please PM Bernie @ Discord/FullClosedLooping for publishing corrected, updated, or additional documents in this Github branch. 
 
      
 
