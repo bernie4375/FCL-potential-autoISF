@@ -11,7 +11,9 @@ autoISF strongly modulates ISF. A brief summary is given in the enclosed  " 4.1.
 
 If you like, find out for yourself how useful any of the documents worked-on by AI might be for you, or whether the given material may help you find YOUR approach how to employ AI in this field.
 
-The e-Book AI summary is quite nicely written. However, please note that the key authors of autoISF original material do not have the time to thoroughly review documents on this branch, or even to keep them up-todate. Therefore, use on own risk. Cross-check things that are important to you against the original material.
+The e-Book_AI summary is quite nicely written. However, please note that the key authors of autoISF original material do not have the time to thoroughly review documents on this branch, or even to keep them up-todate. Therefore, use on own risk. Cross-check things that are important to you against the original material.
+
+The e-Book_AI summary is ((will soon be)) made available also in .md format to ease evtl. translation or referencing.
 
 Especially when you aim at Full Closed Loop, observing necessary pre-requisites and safety measures is of very high importance. This is not sufficiently highlighted in some enclosed papers. Refer to default branch! 
 
