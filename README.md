@@ -1,6 +1,8 @@
      
      This is a repository of documents, FOR ADVANCED USERS, 
      for exploring potential routes towards Full Closd Looping, notably using autoISF. 
+         In a neighboring branch of this Github site, you can find also a e-Book version 
+         that was streamlined by AI for easier initial reading.
     
      BEGINNERS: Please click on bernie4375 (top left) 
      to go to parallel repository "HCL-Meal Management..."!
@@ -14,8 +16,6 @@ autoISF is probably the best approach for a FCL. It strongly modulates ISF. A br
 Please try to follow the sequence of chapters. However, use (and study deeper) only what you think suits you. FCL always builds on YOUR personal patterns. 
 
 Please observe the safety suggestions (e.g. section on iobTH, on SMBs off at odd temp. bg targets etc). 
-
-In a neighboring branch, you can find also a e-Book version that was streamlined by AI
 
 Note that autoISF is a highly experimental toolset for you doing self-responsible research, based on YOUR evryday looping data. See Disclaimer: 
 
