@@ -1,19 +1,17 @@
      
-     This is a repository of documents, FOR ADVANCED USERS, 
-     for exploration whether ChatGPT or other AI methods may be useful for using autoISF, 
-     notably also for Full Closed Loop (FCL). 
-     
+     This is a repository of documents, FOR ADVANCED USERS: 
+     *  containing the FCL e-Book in a form comndensed by AI
+     *  containing papers that explore whether ChatGPT or other AI methods may be useful for using autoISF in Full Closed Loop 
+      
      BEGINNERS: Please click on bernie4375 (top left) 
      to go to parallel repository "HCL-Meal Management..."!
      
 
 autoISF strongly modulates ISF. A brief summary is given in the enclosed  " 4.1.2 ..overview.pdf "  from the e-Book (just 1 page). 
 
-If you like, find out for yourself how useful any of the documents worked-on by AI might be for you, or whether the given material may help you find YOUR approach how to employ AI in this field.
+If you like, find out for yourself how useful any of the documents worked-on by AI might be for you, or whether the given material may help you find YOUR approach how to employ AI in this field. Particularly, The *e-Book_AI summary* is quite nicely written by AI, and the first 100 pages have been reviewed.  It will be made available also in .md format to ease evtl. translation or referencing.
 
-The e-Book_AI summary is quite nicely written. However, please note that the key authors of autoISF original material do not have the time to thoroughly review documents on this branch, or even to keep them up-todate. Therefore, use on own risk. Cross-check things that are important to you against the original material.
-
-The e-Book_AI summary is ((will soon be)) made available also in .md format to ease evtl. translation or referencing.
+Please note that the key authors of autoISF original material do not have the time to thoroughly review documents on this branch, or even to keep them up-todate. Therefore, use on own risk. Cross-check things that are important to you against the original material.
 
 Especially when you aim at Full Closed Loop, observing necessary pre-requisites and safety measures is of very high importance. This is not sufficiently highlighted in some enclosed papers. Refer to default branch! 
 
@@ -23,7 +21,7 @@ pdf documents open directly, for others you may have to push on "download raw fi
      Disclaimer – Important to read and understand:
 
 Documents enclosed in this branch are issued by ChatGPT and other AI, sometimes edited by more or less experienced autoISF users. 
-Neither this Github site owner, nor developers of autoISF, have reviewed the materials, and do not endorse. 
+Neither this Github site owner, nor developers of autoISF, have reviewed the materials, and do not endorse unless otherwise noted. 
 Please refer to original material in the default e-Book branch, or at Github/ga-zelle.
 . 
 In case you choose to get involved with AI-support: 
