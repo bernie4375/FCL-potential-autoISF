@@ -9,7 +9,7 @@
 
 autoISF strongly modulates ISF. A brief summary is given in the enclosed  " 4.1.2 ..overview.pdf "  from the e-Book (just 1 page). 
 
-If you like, find out for yourself how useful any of the documents worked-on by AI might be for you, or whether the given material may help you find YOUR approach how to employ AI in this field. Particularly, the **e-Book_AI summary** is quite nicely written by AI, and the first 100 pages have been reviewed.  It will be made available also in .md format to ease evtl. translation or referencing.
+If you like, find out for yourself how useful any of the documents worked-on by AI might be for you, or whether the given material may help you find YOUR approach how to employ AI in this field. Particularly, the **FCL-e-Book_AI edited** is quite nicely written by AI, and the first 100 pages have been reviewed.  It is available also in .md format to ease evtl. translation or referencing.
 
 Please note that the key authors of autoISF original material do not have the time to thoroughly review all documents on this branch, or even to keep them up-todate. Therefore, use on own risk. Cross-check things that are important to you against the original material.
 
