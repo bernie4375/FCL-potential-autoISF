@@ -1,8 +1,8 @@
      
      This is a repository of documents, FOR ADVANCED USERS, 
      for exploring potential routes towards Full Closd Looping, notably using autoISF. 
-         In a neighboring branch of this Github site, you can find also a e-Book version 
-         that was streamlined by AI for easier initial reading.
+         In a neighboring branch of this Github site, you can find a  e-Book version 
+         that was edited by AI for easier initial reading.
     
      BEGINNERS: Please click on bernie4375 (top left) 
      to go to parallel repository "HCL-Meal Management..."!
