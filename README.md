@@ -13,7 +13,7 @@ Particularly, the **FCL-e-Book_AI edited** is quite nicely written by AI, and th
 
 If you like, find out for yourself how useful any of the documents worked-on by AI might be for you, or whether the given material may help you find YOUR approach how to employ AI in this field. 
 
-Please note that the key authors of autoISF original material do not have the time to thoroughly review all documents on this branch, or even to keep them up-todate. Therefore, use on own risk. Cross-check things that are important to you against the original material.
+Please note that the key authors of autoISF original material do not have the time (or even the skills) to thoroughly review all documents on this branch, or to keep them up-todate. Therefore, use on own risk. Cross-check things that are important to you against the original material.
 
 pdf documents open directly, for others you may have to push on "download raw file" on the right side.
 
