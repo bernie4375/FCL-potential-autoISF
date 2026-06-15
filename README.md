@@ -7,7 +7,7 @@
      to go to parallel repository "HCL-Meal Management..."!
      
 
-autoISF strongly modulates ISF. A brief summary is given in the enclosed  " 4.1.2 ..overview.pdf "  from the e-Book (just 1 page). 
+autoISF strongly modulates ISF. A brief summary is given in the enclosed  " 4.1.2 ..overview.pdf "  from the e-Book (just 1 page; use instead of chart on p.30 of AI-edited e-book!). 
 
 If you like, find out for yourself how useful any of the documents worked-on by AI might be for you, or whether the given material may help you find YOUR approach how to employ AI in this field. Particularly, the **FCL-e-Book_AI edited** is quite nicely written by AI, and the first 100 pages have been reviewed.  It is available also in .md format to ease evtl. translation or referencing.
 
