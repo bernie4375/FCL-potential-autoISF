@@ -12,4 +12,4 @@ The "...e-book_AI-edited_v2.md " contains also links at all headlines for easy r
 
 Note 1: YOU are responsible to periodically read the English pdf original for eventual changes made: Important ones might need to be carried into your version, too
 
-Note 2: Apologies that the .md files do not contain many illustratiunbs, while the .word or ppt versions can be quite a patchwork of insertions and quick fixes (like putting an invisible white box over something to disappear, and other little fun surprises... - The main author just is no pro at formatting, and enjoys any quick DIY fix to get to the desired pdf)
+Note 2: Apologies that the .md files do not contain many illustrations, while the .word or .ppt versions can be quite a patchwork of insertions and quick fixes (like putting an invisible white box over something to disappear, and other little fun surprises... - The main author just is no pro at formatting, and enjoys any quick DIY fix to get to the desired pdf)
