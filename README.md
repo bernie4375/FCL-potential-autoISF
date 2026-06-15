@@ -1,7 +1,7 @@
      
      This is a repository of documents, FOR ADVANCED USERS, 
      for exploring potential routes towards Full Closd Looping, notably using autoISF. 
-          You can find a  e-Book version that was edited by AI for easier initial reading in a neighboring branch of this Github site
+          You can find a  e-Book version that was edited by AI for easier initial reading in a neighboring branch ->
           -> https://github.com/bernie4375/FCL-potential-autoISF/blob/FCL_aISF_AI_applications/FCL-e-Book_AI-edited_p.1-33.pdf 
     
      BEGINNERS: Please click on bernie4375 (top left) 
