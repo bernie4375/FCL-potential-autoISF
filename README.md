@@ -1,11 +1,11 @@
-Exploring Full Closed Loop potential of-autoISF   *- VERSION IN WORD FORMATS   (Better use:  DEFAULT "FCL-e-book" PDF BRANCH -* )                           
+Exploring Full Closed Loop potential of-autoISF    - VERSION IN WORD (OR .MD) FORMATS                             
 
-Documents are given in WORD format here, 
+Documents are given **in WORD format** here  
    * for easier translations,
    * or if you wish to use parts of the text in a paper you are preparing
    * or to suggest changes in the general pdf file
 
-The FCL-e-Book_AI edited offers, in .md format, another good avenue for doing translations etc.  
+In a neighboring branch, the "FCL-e-Book_AI edited" offers, **in .md format**, another good avenue for doing translations etc.  
 The "...e-book_AI-edited_v2.md " contains also links at all headlines for easy referencing.
      
 (( Feel free to use these materials, this is OPEN SOURCE ))
