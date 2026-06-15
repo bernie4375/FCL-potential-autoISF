@@ -17,7 +17,7 @@ Please try to follow the sequence of chapters. However, use (and study deeper) o
 
 Please observe the safety suggestions (e.g. section on iobTH, on SMBs off at odd temp. bg targets etc). 
 
-Note that autoISF is a highly experimental toolset for you doing self-responsible research, based on YOUR evryday looping data. See Disclaimer: 
+Note that autoISF is a highly experimental toolset for you doing self-responsible research, based on YOUR everyday looping data. See Disclaimer: 
 
       
      Disclaimer – Important to read and understand:
