@@ -1,6 +1,6 @@
      
      This is a repository of documents, FOR ADVANCED USERS: 
-     *  containing the FCL e-Book in a form comndensed by AI (provided by munchy.k @ Discord)
+     *  containing the FCL e-Book in a form condensed by AI (provided by munchy.k @ Discord)
      *  containing papers that explore whether ChatGPT or other AI methods may be useful for using autoISF in Full Closed Loop 
       
      BEGINNERS: Please click on bernie4375 (top left) 
