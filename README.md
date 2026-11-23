@@ -17,7 +17,10 @@ Please try to follow the sequence of chapters. However, use (and study deeper) o
 
 Please observe the safety suggestions (e.g. section on iobTH, on SMBs off at odd temp. bg targets etc). 
 
-Note that autoISF is a highly experimental toolset for you doing self-responsible research, based on YOUR everyday looping data. See Disclaimer: 
+Regarding the current version of autoISF, please consult the Anbnoncements in: Discord/FullClosedLooping = https://discord.com/channels/953929437894803478/1082741921396564028.
+(Note that this eBook may lag a bit behind).
+
+IMPORTANT: autoISF is a highly experimental toolset for you doing self-responsible research, based on YOUR everyday looping data. See Disclaimer: 
 
       
      Disclaimer – Important to read and understand:
